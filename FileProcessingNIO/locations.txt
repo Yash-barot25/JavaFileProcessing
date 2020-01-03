@@ -1,0 +1,5 @@
+0,You'r are in-front of your computer learning java.
+1,Gas-station
+2,Down town
+3,Go station
+4,Ford car center
